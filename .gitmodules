@@ -1,0 +1,3 @@
+[submodule "app/package_control_channel"]
+	path = app/package_control_channel
+	url = git://github.com/wbond/package_control_channel.git
